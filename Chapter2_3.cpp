@@ -4,7 +4,7 @@ using namespace std;
 void log1();
 void log2();
 
-int main() {
+int main2_3() {
 	log1();
 	log1();
 	log2();
